@@ -1,0 +1,51 @@
+FIRE EXPLORER
+
+Posición de la cámara con escalado de 3.8:
+
+walk_e: 
+
+lx: -1.100     rx: 30.000
+ly: 0.200      ry: 0.000
+lz: 2.000      rz: -90.000
+
+walk_ne:
+
+lx: -1.000     rx: 30.000
+ly: 1.000      ry: 0.000
+lz: 2.000      rz: -135.000
+ 
+walk_n:
+
+lx: 0.000     rx: 30.000
+ly: 1.400     ry: 0.000
+lz: 2.000     rz: 180.000
+
+walk_nw: 
+
+lx: 1.000     rx: 30.000
+ly: 1.000     ry: 0.000
+lz: 2.000     rz: 135.000
+
+walk_w: 
+
+lx: 1.100     rx: 30.000
+ly: 0.200     ry: 0.000
+lz: 2.000     rz: 90.000
+
+walk_sw: 
+
+lx: 1.000     rx: 30.000
+ly: -1.000    ry: 0.000
+lz: 2.000     rz: 45.000
+
+walk_s:
+
+lx: 0.000     rx: 30.000
+ly: -1.000    ry: 0.000
+lz: 2.000     rz: 0.000
+
+walk_se: 
+
+lx: -1.000     rx: 30.000
+ly: -1.000     ry: 0.000
+lz: 2.000      rz: -45.000

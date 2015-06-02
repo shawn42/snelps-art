@@ -1,0 +1,17 @@
+=Hacer capas de terreno individual=
+
+Al final de este proceso se obtienen dos imágenes de terreno uniforme que se
+usan después para crear las imágenes finales de terreno que se van a usar en el
+juego.
+
+1. Hacer cuadro de terreno en Inkscape (32x32 píxeles).
+2. Exportar PNG.
+3. Abrir PNG en GIMP y aplicarle filtros → Mapa → Crear sin costuras.
+4. Incluir la imagen filtrada anterior en el directorio de patrones de GIMP.
+5. Volver a abrir GIMP y crear una imagen de 96x96 píxeles y pintarla usando la
+   imagen que se incluyó en el paso 4.
+6. Repetir el paso anterior pero para una imagen de 64x64.
+   
+=Hacer terreno combinado=
+
+1. Importar 

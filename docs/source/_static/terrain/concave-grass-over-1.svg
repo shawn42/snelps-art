@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160"
+   height="160"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="concave-grass-over-1.svg"
+   inkscape:export-filename="grass-1-sand-1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2977"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3049"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3138">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m 270,463.79074 0,160 160,0 0,-160 -160,0 z m 58.71875,47.71875 43.21875,0 9.90625,10.09375 0,43.8125 -10.09375,10.65625 -43.21875,0 -10.375,-10.96875 0,-43.78125 10.5625,-9.8125 z"
+         id="path3140" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter3920">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.64121035"
+         id="feGaussianBlur3922" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3962">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6030259"
+         id="feGaussianBlur3964" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="167.30795"
+     inkscape:cy="65.890648"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="827"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3061"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="false"
+       spacingx="32px"
+       spacingy="32px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="sand-1"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/sirgazil/Proyectos/gomitas/src/terrain/sand-1-layer-A.png"
+       xlink:href="sand-1-layer-A.png"
+       width="160"
+       height="160"
+       id="image3051"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="grass-1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-270,-463.79074)">
+    <path
+       id="path3924"
+       d="m 328.70317,511.51409 43.22766,0 9.91355,10.08645 0,43.80404 -10.08646,10.66282 -43.22766,0 -10.37464,-10.95101 0,-43.80403 10.54755,-9.79827 z"
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-opacity:1;filter:url(#filter3962)"
+       transform="matrix(1,0,0,1.2435714,0,-124.5902)" />
+    <image
+       sodipodi:absref="/home/sirgazil/Proyectos/gomitas/src/terrain/grass-1-layer-A.png"
+       xlink:href="grass-1-layer-A.png"
+       clip-path="url(#clipPath3138)"
+       width="160"
+       height="160"
+       id="image2979"
+       x="270"
+       y="463.79074" />
+    <path
+       style="fill:#800000;stroke:none"
+       d="m 448.70317,511.51409 43.22766,0 9.91355,10.08645 0,43.80404 -10.08646,10.66282 -43.22766,0 -10.37464,-10.95101 0,-43.80403 10.54755,-9.79827 z"
+       id="path3119" />
+    <path
+       id="path3142"
+       d="m 328.70317,511.51409 43.22766,0 9.91355,10.08645 0,43.80404 -10.08646,10.66282 -43.22766,0 -10.37464,-10.95101 0,-43.80403 10.54755,-9.79827 z"
+       style="fill:none;stroke:#cbf068;stroke-opacity:1;filter:url(#filter3920)" />
+  </g>
+</svg>
